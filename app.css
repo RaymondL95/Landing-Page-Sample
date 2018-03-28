@@ -4,7 +4,7 @@ body{
 	background-position: center;
 	font-family: Lato, Arial;
 	color: white;
-	overflow-x: hiidden;
+	overflow-x: hidden;
 }
 html{
 	/* Make background image  no repeat and display correct */
